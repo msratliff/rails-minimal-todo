@@ -1,3 +1,31 @@
 // Place all the styles related to the todo_items controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+	width: 75%;
+	margin: auto;
+}
+
+.nav {
+	background-color: lightgrey;
+	padding: 1rem;
+	justify-content: center;
+	display: flex;
+}
+
+.nav__logo {
+	font-weight: bolder;
+	color: darkred;
+	font-size: 2rem;
+
+
+}
+
+.table {
+	border: 1px, solid, red;
+}
+
+.table__title {
+
+}
